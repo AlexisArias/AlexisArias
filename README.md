@@ -49,5 +49,5 @@ Suite à mon souhait de reconversion, j'ai intégré la formation intensice du W
 
 - Développer des pages web réactives avec HTML, CSS, JavaScript, Bootstrap. Utilisation de framework clé tel que Stimulus.JS.
 
-<h2>🚀 Objectifs 2024 !</h2>
+<h2>🚀 Mes objectifs 2024 !</h2>
  Créer, participer et contribuer à des projets web captivants et intéressants, tout en continuant de me former à de nouveaux langages de programmation.
