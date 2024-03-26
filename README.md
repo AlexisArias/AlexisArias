@@ -25,7 +25,8 @@ Je suis un <strong>futur développeur full-stack</strong>, issu de la formation 
 <p>En cours d'apprentissage : </p>
 <ul>
 <li>JavaScript React</li>
-<li>PHP et Symfony</li>
+<li>NodeJS</li>
+<li>ExpressJS</li>
 
 </ul>
 
